@@ -3,5 +3,7 @@
   <body>
   	<div>Hey</div>
     <h1> Hello </h1>
+    <p> Lorem is a default paragraph in vs code </p>
+    <b> Self </b>
   </body>
 <html/>
