@@ -1,6 +1,8 @@
 <html>
   <head> Git </head>
   <body>
+  	<div>Hey</div>
+  	<p>Lorem is a default paragraph </p>
     <h1> Hello </h1>
   </body>
 <html/>
