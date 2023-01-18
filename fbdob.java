@@ -19,12 +19,12 @@ public class fbdob {
 		Thread.sleep(2000);
 		WebElement alldate = driver.findElement(By.id("day"));
 		Select s = new Select(alldate);
-		s.selectByVisibleText("24");
+		s.selectByVisibleText("05");
 		WebElement allmonth = driver.findElement(By.id("month"));
 		Select s1 = new Select(allmonth);
-		s1.selectByVisibleText("Jan");
+		s1.selectByVisibleText("Dec");
 		WebElement allyear = driver.findElement(By.id("year"));
 		Select s2 = new Select(allyear);
-		s2.selectByVisibleText("1999");
+		s2.selectByVisibleText("1992");
 	}
 }
